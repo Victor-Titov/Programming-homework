@@ -1,0 +1,1 @@
+gcc pow4.c -o pow4.exe -lm

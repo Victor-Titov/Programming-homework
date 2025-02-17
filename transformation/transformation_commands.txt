@@ -1,0 +1,2 @@
+gcc -C transformation.c -o transformation.o
+gcc main.c transformation.o -o main.out
